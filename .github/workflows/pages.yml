@@ -13,7 +13,7 @@ jobs:
 
       - uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: '1.8.24'
+          version: '1.7.34'
 
       - run: quarto render
 
