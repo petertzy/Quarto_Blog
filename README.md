@@ -50,3 +50,8 @@ quarto render posts/2025-09-09-hello-quarto.ipynb
 ```
 This will output the corresponding HTML file to `_site/` and automatically update the site.
 
+渲染網站：
+quarto render
+
+再執行 quarto publish gh-pages：
+quarto publish gh-pages

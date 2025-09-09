@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://petertzy.github.io/Quarto_Blog/about.html</loc>
     <lastmod>2025-09-09T10:17:08.104Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
+    <loc>https://petertzy.github.io/Quarto_Blog/posts/welcome/index.html</loc>
+    <lastmod>2025-09-09T10:17:08.106Z</lastmod>
+  </url>
+  <url>
+    <loc>https://petertzy.github.io/Quarto_Blog/posts/hello-quarto/index.html</loc>
+    <lastmod>2025-09-09T10:17:08.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://petertzy.github.io/Quarto_Blog/posts/post-with-code/index.html</loc>
+    <lastmod>2025-09-09T10:17:08.106Z</lastmod>
+  </url>
+  <url>
+    <loc>https://petertzy.github.io/Quarto_Blog/posts/2025-09-09-hello-quarto.html</loc>
+    <lastmod>2025-09-09T10:17:08.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://petertzy.github.io/Quarto_Blog/index.html</loc>
     <lastmod>2025-09-09T10:17:08.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/2025-09-09-hello-quarto.html</loc>
-    <lastmod>2025-09-09T10:17:08.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2025-09-09T10:17:08.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/hello-quarto/index.html</loc>
-    <lastmod>2025-09-09T10:17:08.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2025-09-09T10:17:08.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/README.html</loc>
-    <lastmod>2025-09-09T10:17:08.085Z</lastmod>
   </url>
 </urlset>
